@@ -1,0 +1,21 @@
+{
+    "home": {
+      "title": "Hi, I'm Erisona Lanai",
+      "tagline": "Junior Software Developer",
+      "cta_hire_me": "Hire Me",
+      "cta_lets_talk": "Let's Talk"
+    },
+    "about": {
+      "heading": "About Me",
+      "description_1": "Recent graduate in Digital Industry Technologies with hands-on experience in software development.",
+      "description_2": "In five years, I see myself as a well-rounded software developer, working on large-scale projects and leading a team of developers.",
+      "description_3": "What I enjoyed most from our conversation during the interview was the company’s commitment to fostering a collaborative and innovative work environment."
+    },
+    "projects": {
+      "heading": "My Projects"
+    },
+    "contact": {
+      "heading": "Contact Me!"
+    }
+  }
+  

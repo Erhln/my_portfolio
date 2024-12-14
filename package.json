@@ -1,0 +1,26 @@
+{
+  "name": "my-astro-project",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/svelte": "^7.0.1",
+    "@fortawesome/fontawesome-free": "^6.7.1",
+    "astro": "^5.0.3",
+    "i18next": "^24.0.5",
+    "i18next-browser-languagedetector": "^8.0.2",
+    "resize-observer-polyfill": "^1.5.1",
+    "svelte": "^5.9.1",
+    "svelte-carousel": "^1.0.25"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16"
+  }
+}
